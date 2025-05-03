@@ -119,13 +119,13 @@
     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin="anonymous"></script>
     <script>
         var loc = [ 43.624749 , 16.736931 ];
-        var mymap = L.map("map").setView(loc, 15 );
+        var mymap = L.map("map").setView(loc, 17 );
         L.tileLayer(
           "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
           {
             attribution:
               'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-              maxZoom: 15 }
+              maxZoom: 17 }
         ).addTo(mymap);
           var marker = L.marker(loc).addTo(mymap);
     </script>

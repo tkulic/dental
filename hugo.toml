@@ -62,7 +62,7 @@ enableRobotsTXT = true
     # For Open Street Map widgets
     latitude = "43.624749"
     longitude = "16.736931"
-    zoom = "15"
+    zoom = "17"
 
   [params.contact]
     #For netlify, please read https://www.netlify.com/docs/form-handling/
