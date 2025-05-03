@@ -21,7 +21,7 @@
 
   #Accent is a colour defined in the CSS file. Choose between 1 and 5
   [[feature_icons.tile]]
-    icon = "fa-rss"
+    icon = "fa-tooth"
     icon_pack = "fas"
     accent = "1"
     title = "Zubni ispuni"

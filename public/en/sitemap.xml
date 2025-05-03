@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://localhost/en/</loc>
+    <loc>https://dental-amb.netlify.app/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://localhost/"
+                href="https://dental-amb.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost/en/"
+                href="https://dental-amb.netlify.app/en/"
                 />
   </url><url>
-    <loc>https://localhost/en/preachers/</loc>
+    <loc>https://dental-amb.netlify.app/en/preachers/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://localhost/preachers/"
+                href="https://dental-amb.netlify.app/preachers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost/en/preachers/"
+                href="https://dental-amb.netlify.app/en/preachers/"
                 />
   </url><url>
-    <loc>https://localhost/en/series/</loc>
+    <loc>https://dental-amb.netlify.app/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://localhost/series/"
+                href="https://dental-amb.netlify.app/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost/en/series/"
+                href="https://dental-amb.netlify.app/en/series/"
                 />
   </url><url>
-    <loc>https://localhost/en/tags/</loc>
+    <loc>https://dental-amb.netlify.app/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://localhost/tags/"
+                href="https://dental-amb.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost/en/tags/"
+                href="https://dental-amb.netlify.app/en/tags/"
                 />
   </url>
 </urlset>

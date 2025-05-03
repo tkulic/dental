@@ -1,4 +1,4 @@
-baseURL = "https://localhost"
+baseURL = "https://dental-amb.netlify.app/"
 languageCode = "hr"
 defaultContentLanguage = "hr"
 title = "Aestetic Dental Kozina"

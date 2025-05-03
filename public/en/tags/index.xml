@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aestetic Dental Kozina</title>
-    <link>https://localhost/en/tags/</link>
+    <link>https://dental-amb.netlify.app/en/tags/</link>
     <description>Recent content in Tags on Aestetic Dental Kozina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>toni.kulic@yahoo.com (tkulic)</managingEditor>
     <webMaster>toni.kulic@yahoo.com (tkulic)</webMaster>
-    <atom:link href="https://localhost/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dental-amb.netlify.app/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

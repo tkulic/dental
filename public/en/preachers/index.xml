@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preachers on Aestetic Dental Kozina</title>
-    <link>https://localhost/en/preachers/</link>
+    <link>https://dental-amb.netlify.app/en/preachers/</link>
     <description>Recent content in Preachers on Aestetic Dental Kozina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>toni.kulic@yahoo.com (tkulic)</managingEditor>
     <webMaster>toni.kulic@yahoo.com (tkulic)</webMaster>
-    <atom:link href="https://localhost/en/preachers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dental-amb.netlify.app/en/preachers/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

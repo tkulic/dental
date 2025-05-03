@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aestetic Dental Kozina</title>
-    <link>https://localhost/</link>
+    <link>https://dental-amb.netlify.app/</link>
     <description>Recent content on Aestetic Dental Kozina</description>
     <generator>Hugo</generator>
     <language>hr</language>
     <managingEditor>toni.kulic@yahoo.com (tkulic)</managingEditor>
     <webMaster>toni.kulic@yahoo.com (tkulic)</webMaster>
-    <atom:link href="https://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dental-amb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kontakt</title>
-      <link>https://localhost/kontakt/</link>
+      <link>https://dental-amb.netlify.app/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>toni.kulic@yahoo.com (tkulic)</author>
-      <guid>https://localhost/kontakt/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;📞 +385 91 611 3770&#xA;&lt;br&gt;&#xA;✉️ &lt;a href=&#34;mailto:dental.kozina@gmail.com&#34;&gt;dental.kozina@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;pošaljite-poruku&#34;&gt;Pošaljite poruku&lt;/h2&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;form name=&#34;contact&#34; method=&#34;POST&#34; action=&#34;https://localhost/kontakt&#34; netlify&gt;&#xD;&#xA;&#x9;&#x9;&lt;div class=&#34;row gtr-50 gtr-uniform&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xD;&#xA;&#x9;    &#x9;&#x9;&lt;input type=&#34;text&#34; name=&#34;name&#34; aria-label=&#34;Vaše ime&#34; placeholder=&#34;Vaše ime&#34; required&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xD;&#xA;&#x9;    &#x9;&#x9;&lt;input type=&#34;email&#34; name=&#34;email&#34; aria-label=&#34;Email adresa&#34; placeholder=&#34;Email adresa&#34; required&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-12&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;textarea name=&#34;message&#34; aria-label=&#34;Unesite svoju poruku&#34; placeholder=&#34;Unesite svoju poruku&#34; rows=&#34;6&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-12&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;ul class=&#34;actions special&#34;&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&#x9;&#x9;&lt;li&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;input type=&#34;submit&#34; value=&#34;Pošalji&#34; /&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;/li&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/ul&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&lt;/form&gt;</description>
+      <guid>https://dental-amb.netlify.app/kontakt/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;📞 +385 91 611 3770&#xA;&lt;br&gt;&#xA;✉️ &lt;a href=&#34;mailto:dental.kozina@gmail.com&#34;&gt;dental.kozina@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;pošaljite-poruku&#34;&gt;Pošaljite poruku&lt;/h2&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;form name=&#34;contact&#34; method=&#34;POST&#34; action=&#34;https://dental-amb.netlify.app/kontakt&#34; netlify&gt;&#xD;&#xA;&#x9;&#x9;&lt;div class=&#34;row gtr-50 gtr-uniform&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xD;&#xA;&#x9;    &#x9;&#x9;&lt;input type=&#34;text&#34; name=&#34;name&#34; aria-label=&#34;Vaše ime&#34; placeholder=&#34;Vaše ime&#34; required&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xD;&#xA;&#x9;    &#x9;&#x9;&lt;input type=&#34;email&#34; name=&#34;email&#34; aria-label=&#34;Email adresa&#34; placeholder=&#34;Email adresa&#34; required&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-12&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;textarea name=&#34;message&#34; aria-label=&#34;Unesite svoju poruku&#34; placeholder=&#34;Unesite svoju poruku&#34; rows=&#34;6&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-12&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;ul class=&#34;actions special&#34;&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&#x9;&#x9;&lt;li&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;input type=&#34;submit&#34; value=&#34;Pošalji&#34; /&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;/li&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/ul&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&lt;/form&gt;</description>
     </item>
   </channel>
 </rss>
