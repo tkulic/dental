@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://localhost/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://localhost:1313/"
+                href="https://localhost/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://localhost/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/preachers/</loc>
+    <loc>https://localhost/en/preachers/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://localhost:1313/preachers/"
+                href="https://localhost/preachers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/preachers/"
+                href="https://localhost/en/preachers/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/series/</loc>
+    <loc>https://localhost/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://localhost:1313/series/"
+                href="https://localhost/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/series/"
+                href="https://localhost/en/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://localhost/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://localhost:1313/tags/"
+                href="https://localhost/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://localhost/en/tags/"
                 />
   </url>
 </urlset>
