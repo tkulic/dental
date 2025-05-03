@@ -1,0 +1,20 @@
+[nameLabel]
+other = "Vaše ime"
+
+[emailLabel]
+other = "Email adresa"
+
+[messageLabel]
+other = "Unesite svoju poruku"
+
+[sendLabel]
+other = "Pošalji"
+
+[published]
+other = "Objavljeno:"
+
+[updated]
+other = "Ažurirano:"
+
+[postsHeading]
+other = "Aktualno"

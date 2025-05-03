@@ -1,0 +1,116 @@
+baseURL = "https://localhost"
+languageCode = "hr"
+defaultContentLanguage = "hr"
+title = "Aestetic Dental Kozina"
+theme = "alpha-church"
+
+rssLimit = 5
+pagination.pagerSize = 4
+
+enableEmoji = true
+
+enableRobotsTXT = true
+
+[languages]
+  [languages.hr]
+    languageName = "Hrvatski"
+    weight = 1
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+
+
+# Enter your tracking code to enable Google Analytics
+[services]
+  [services.googleAnalytics]
+    ID = ""
+
+[security]
+  enableInlineShortcodes = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  preacher = "preachers"
+  series = "series"
+
+[params]
+  title = "Aestetic Dental Kozina"
+  subtitle = "Vaš osmijeh je naša misija!"
+  keywords = ["dental", "stomatolog", "ordinacija"]
+  languageCode = "hr" 
+  instant_page = true
+
+
+  [params.author]
+    name = "tkulic"
+    email = "toni.kulic@yahoo.com"
+
+  [params.favicon]
+    sml = "./img/favicon/favicon-16x16.png"
+    med = "./img/favicon/favicon-32x32.png"
+    #lge = "example96.png"
+
+  [params.banner]
+    image = "./img/dentist-2530983_1280.jpg"
+
+  [params.map]
+    service = "osm"
+    # For Open Street Map widgets
+    latitude = "43.624749"
+    longitude = "16.736931"
+    zoom = "15"
+
+  [params.contact]
+    #For netlify, please read https://www.netlify.com/docs/form-handling/
+    service = "netlify" 
+    confirm_page = "/kontakt" 
+
+  [params.footer]
+    copyright = ["© Dental",
+                   "Built by [tkulic](https://github.com/tkulic)",
+                   "Built with [hugo](https://gohugo.io/)",
+                   "Theme: [Alpha Church](https://github.com/funkydan2/alpha-church)"
+                  ] 
+
+[[menu.main]]
+  name = "Početna"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "O nama"
+  url = "/onama/"
+  weight = 2
+
+[[menu.main]]
+  name = "Usluge"
+  url = "/usluge/"
+  weight = 3
+
+[[menu.main]]
+  name = "Preventivna stomatologija"
+  url = "/usluge/preventivna/"
+  parent = "Usluge"
+  weight = 3.1
+
+[[menu.main]]
+  name = "Estetska stomatologija"
+  url = "/usluge/estetska/"
+  parent = "Usluge"
+  weight = 3.2
+
+[[menu.main]]
+  name = "Oralna kirurgija"
+  url = "/usluge/oralna-kirurgija/"
+  parent = "Usluge"
+  weight = 3.3
+
+[[menu.main]]
+  name = "Kontakt"
+  url = "/kontakt"
+  weight = 4
+
