@@ -11,9 +11,9 @@
 
 #Details for the box below the banner
 [services]
-  title = "Kako do nas?"
-  text = "Posjetite nas u ulici [Domovinskog rata 35, 21240 Trilj (Vedrine)](https://www.openstreetmap.org/way/350354086)."
-  map_location = "Aestetic Dental Kozina"
+  title = "Gdje se nalazimo?"
+  text = "Posjetite nas u ulici [Šoltanska 26, 21000 Split](https://www.openstreetmap.org/search?query=%C5%A0oltanska%2026%2C%20Split)."
+  map_location = "Poliklinika Optima"
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.
@@ -21,53 +21,39 @@
 
   #Accent is a colour defined in the CSS file. Choose between 1 and 5
   [[feature_icons.tile]]
-    icon = "fa-tooth"
+    icon = "fa-eye"
     icon_pack = "fas"
     accent = "1"
-    title = "Zubni ispuni"
-    text = ""
+    title = "Pregled vida"
+    text = "Kompletna dijagnostika vidne oštrine i zdravlja oka."
 
   [[feature_icons.tile]]
-    icon = "fa-teeth-open"
+    icon = "fa-child"
     icon_pack = "fas"
     accent = "2"
-    title = "Dentalni implantati"
-    text = ""
+    title = "Pedijatrijska oftalmologija"
+    text = "Briga o vidu djece od najranije dobi."
 
   [[feature_icons.tile]]
-    icon = "fa-teeth"
+    icon = "fa-low-vision"
     icon_pack = "fas"
     accent = "5"
-    title = "Parodontologija"
-    text = ""
+    title = "Strabologija"
+    text = "Dijagnostika i liječenje škiljenja (strabizma)."
 
   [[feature_icons.tile]]
-    icon = "fa-notes-medical"
+    icon = "fa-brain"
     icon_pack = "fas"
     accent = "3"
-    title = "Oralna kirurgija"
-    text = ""
+    title = "Dječja psihijatrija"
+    text = "Podrška i savjetovanje za psihičko zdravlje djece."
 
 [feature_images]
 #These feature images look best if there's an even number of them.
   enable = false
 
-  [[feature_images.tile]]
-    image = "img/freely-10057.jpg"
-    title = "Childrens' Ministry"
-    text = "A church for the family."
-    url = "/kids"
-    button_text = "Learn more"
-
-  [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
-    title = "Midweek Ministries"
-    text = "Want more during the week?"
-    url = "#"
-    button_text="Join a group today!"
-
 [CTA]
   enable = true
-  heading = "Kontakt"
-  message = "Radujemo se Vašoj poruci!"
+  heading = "Zatražite pregled"
+  message = "Javite nam se za termin ili dodatne informacije o pregledu vida."
 +++

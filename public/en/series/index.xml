@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Aestetic Dental Kozina</title>
-    <link>https://dental-amb.netlify.app/en/series/</link>
-    <description>Recent content in Series on Aestetic Dental Kozina</description>
+    <title>Series on Poliklinika Optima</title>
+    <link>http://localhost:1313/en/series/</link>
+    <description>Recent content in Series on Poliklinika Optima</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>toni.kulic@yahoo.com (tkulic)</managingEditor>
     <webMaster>toni.kulic@yahoo.com (tkulic)</webMaster>
-    <atom:link href="https://dental-amb.netlify.app/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

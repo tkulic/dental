@@ -1,14 +1,15 @@
 baseURL = "https://dental-amb.netlify.app/"
 languageCode = "hr"
 defaultContentLanguage = "hr"
-title = "Aestetic Dental Kozina"
+title = "Poliklinika Optima"
 theme = "alpha-church"
+customCSS = ["/css/custom.css"]
+google_fonts = ''
 
 rssLimit = 5
 pagination.pagerSize = 4
 
 enableEmoji = true
-
 enableRobotsTXT = true
 
 [languages]
@@ -38,9 +39,9 @@ enableRobotsTXT = true
   series = "series"
 
 [params]
-  title = "Aestetic Dental Kozina"
-  subtitle = "Vaš osmijeh je naša misija!"
-  keywords = ["dental", "stomatolog", "ordinacija"]
+  title = "Poliklinika Optima"
+  subtitle = "Oftalmologija i strabologija u srcu Splita"
+  keywords = ["oftalmologija", "strabologija", "očna poliklinika", "pregled vida", "Split"]
   languageCode = "hr" 
   instant_page = true
 
@@ -60,21 +61,29 @@ enableRobotsTXT = true
   [params.map]
     service = "osm"
     # For Open Street Map widgets
-    latitude = "43.624749"
-    longitude = "16.736931"
-    zoom = "17"
+    latitude = "43.5053624"
+    longitude = "16.4617637"
+    zoom = "16"
 
   [params.contact]
     #For netlify, please read https://www.netlify.com/docs/form-handling/
-    service = "netlify" 
-    confirm_page = "/kontakt" 
+    service = "netlify"
+    confirm_page = "/kontakt"
+    text = "Posjetite nas u ulici Šoltanska 26, 21000 Split, ili nam se javite izravno:"
+    phone = "021 370 642"
+    mail = "info@poliklinikaoptima.hr"
 
   [params.footer]
-    copyright = ["© Dental",
+    copyright = ["© Poliklinika Optima",
                    "Built by [tkulic](https://github.com/tkulic)",
-                   "Built with [hugo](https://gohugo.io/)",
-                   "Theme: [Alpha Church](https://github.com/funkydan2/alpha-church)"
-                  ] 
+                   "Built with [hugo](https://gohugo.io/)"
+                  ]
+
+  [[params.links]]
+    service = "Instagram"
+    icon = "fa-instagram"
+    icon_pack = "fab"
+    link = "https://www.instagram.com/optima.poliklinika/?hl=hr"
 
 [[menu.main]]
   name = "Početna"
@@ -90,24 +99,6 @@ enableRobotsTXT = true
   name = "Usluge"
   url = "/usluge/"
   weight = 3
-
-[[menu.main]]
-  name = "Preventivna stomatologija"
-  url = "/usluge/preventivna/"
-  parent = "Usluge"
-  weight = 3.1
-
-[[menu.main]]
-  name = "Estetska stomatologija"
-  url = "/usluge/estetska/"
-  parent = "Usluge"
-  weight = 3.2
-
-[[menu.main]]
-  name = "Oralna kirurgija"
-  url = "/usluge/oralna-kirurgija/"
-  parent = "Usluge"
-  weight = 3.3
 
 [[menu.main]]
   name = "Kontakt"

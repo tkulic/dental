@@ -2,11 +2,9 @@
 title = "Kontakt"
 +++
 
-------------------------
+Javite nam se za termin pregleda ili bilo kakav upit. Nalazimo se na adresi Šoltanska 26, 21000 Split.
 
-📞 <a href="tel:+385916113770">+385 91 611 3770</a>
-<br>
-✉️ dental.kozina@gmail.com
+------------------------
 
 ## Pošaljite poruku
 

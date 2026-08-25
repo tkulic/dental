@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\D862\\\\OneDrive - IBsolution GmbH\\\\Desktop\\\\UI5_Quellcode\\\\dental\" -Force)",
+      "Bash(Select-Object Name, PSIsContainer)",
+      "PowerShell(Get-ChildItem -Path \"c:\\\\Users\\\\D862\\\\OneDrive - IBsolution GmbH\\\\Desktop\\\\UI5_Quellcode\\\\dental\\\\layouts\" -Recurse -Force -ErrorAction SilentlyContinue | Where-Object { -not $_.PSIsContainer } | Measure-Object | Select-Object Count)",
+      "WebSearch",
+      "WebFetch(domain:www.instagram.com)",
+      "WebFetch(domain:konoba-fetivi.weeblyte.com)",
+      "WebFetch(domain:www.konoba-argola.com)",
+      "WebFetch(domain:www.maslina.hr)",
+      "WebFetch(domain:gethugothemes.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:jamstackthemes.dev)",
+      "WebFetch(domain:hugo-hero.netlify.app)",
+      "WebFetch(domain:htmlrev.com)",
+      "WebFetch(domain:demo.gethugothemes.com)",
+      "WebFetch(domain:themes.gohugo.io)",
+      "Bash(hugo version *)",
+      "Bash(git --version)",
+      "Read(//c/Users/D862/OneDrive - IBsolution GmbH/Desktop/UI5_Quellcode/**)",
+      "Bash(hugo new *)",
+      "Bash(Get-Content \"c:\\\\Users\\\\D862\\\\OneDrive - IBsolution GmbH\\\\Desktop\\\\UI5_Quellcode\\\\restaurant\\\\themes\\\\hugo-hero-theme\\\\exampleSite\\\\content\\\\homepage\\\\index.md\")",
+      "Bash(Get-Content \"c:\\\\Users\\\\D862\\\\OneDrive - IBsolution GmbH\\\\Desktop\\\\UI5_Quellcode\\\\restaurant\\\\themes\\\\hugo-hero-theme\\\\exampleSite\\\\content\\\\homepage\\\\about.md\")",
+      "Bash(hugo --minify)",
+      "PowerShell(try { hugo version } catch { \"NO_HUGO_PS: $_\" })",
+      "PowerShell(hugo --minify 2>&1)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\D862\\OneDrive - IBsolution GmbH\\Desktop\\UI5_Quellcode\\restaurant"
+    ]
+  }
+}
