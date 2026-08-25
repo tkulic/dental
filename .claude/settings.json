@@ -24,7 +24,16 @@
       "Bash(Get-Content \"c:\\\\Users\\\\D862\\\\OneDrive - IBsolution GmbH\\\\Desktop\\\\UI5_Quellcode\\\\restaurant\\\\themes\\\\hugo-hero-theme\\\\exampleSite\\\\content\\\\homepage\\\\about.md\")",
       "Bash(hugo --minify)",
       "PowerShell(try { hugo version } catch { \"NO_HUGO_PS: $_\" })",
-      "PowerShell(hugo --minify 2>&1)"
+      "PowerShell(hugo --minify 2>&1)",
+      "PowerShell(git fetch origin)",
+      "PowerShell(git rev-list --left-right --count origin/master...origin/aestetic-dental-kozina)",
+      "PowerShell(git checkout master)",
+      "PowerShell(git merge aestetic-dental-kozina --ff-only)",
+      "PowerShell(git stash push -m \"local claude settings\" -- .claude/settings.json)",
+      "PowerShell(git push origin master)",
+      "WebFetch(domain:poliklinika-optima.netlify.app)",
+      "PowerShell(hugo --minify --cleanDestinationDir 2>&1)",
+      "PowerShell(git add -A)"
     ],
     "additionalDirectories": [
       "c:\\Users\\D862\\OneDrive - IBsolution GmbH\\Desktop\\UI5_Quellcode\\restaurant"
